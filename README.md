@@ -10,7 +10,7 @@ The list is unsorted and in a very early stage - Keep calm :)
 
 - _HATZFELD, C. and KERN, T. A._ **Engineering Haptic Devices: A Beginner's Guide** [[OpenLibrary]](https://openlibrary.org/works/OL15882877W/Engineering_haptic_devices)
 - _WANG, D.; XIAO, J. and ZHANG Y._ **Haptic Rendering for Simulation of Fine Manipulation**
-- _SADDIK A. E. et al_ **Haptics Technologies: Bringing Touch to Multimedia**
+- _SADDIK A. E. et al_ **Haptics Technologies: Bringing Touch to Multimedia** [[OpenLibrary]](https://openlibrary.org/works/OL16943751W/Haptics_Technologies)
 - _MIHELJ, M. and PODOBNIK, J._ **Haptics for Virtual Reality and Teleoperation**
 - _GRUNDWANLD, M._ **Human Haptic Perception: Basics and Applications**
 
