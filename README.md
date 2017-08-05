@@ -18,6 +18,7 @@ The list is unsorted and in a very early stage - Keep calm :)
 ## Papers 📃
 
 - _DEMIRKALE, B; TEICHGRÄBER, C.; BERGER, M._ **Concepts and Implementations of a Haptic Simulation Method for Transfer and Guiding Mechanisms.** TrC-IFToMM Symposium on Theory of Machines and Mechanisms, Izmir, Turkey, June 14-17, 2015 [[PDF]](http://umts.iyte.edu.tr/wp-content/uploads/2015/06/95.pdf)
+- _JYOTHI, B. D. and KRISHNAIAH, R. V._ **Haptic Technology - A Sense of Touch** International Journal of Science and Research (IJSR), Volume 2 Issue 9, India Online ISSN: 2319-7064, September, 2013 [[PDF]](https://www.ijsr.net/archive/v2i9/MjMwOTEzMDQ=.pdf)
 
 ## Web
 
