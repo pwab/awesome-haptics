@@ -1,10 +1,13 @@
 # Haptic Technology
 
-## Description
+> Just sharing my literature/web research on haptic technology.
+> 
+> The list is unsorted and in a very early stage - Keep calm :)
 
-Just sharing my literature/web research on haptic technology.
+## Status
 
-The list is unsorted and in a very early stage - Keep calm :)
+[![Maintained Status](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](https://img.shields.io/badge/maintained-yes-green.svg)
+[![Build Status](https://travis-ci.org/pwab/haptic-technology.svg?branch=master)](https://travis-ci.org/pwab/haptic-technology)
 
 ## Books 📚
 
