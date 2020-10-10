@@ -1,13 +1,14 @@
-# Haptic Technology
+# Awesome Haptics
 
-> Just sharing my literature/web research on haptic technology.
-> 
-> The list is unsorted and in a very early stage - Keep calm :)
+> Just sharing my literature/web research on haptics, haptic feedback (including kinaesthetic and tactile feedback) and haptic technology.
+> The list is in a very early stage - Keep calm :)
 
 ## Status
 
-[![Maintained Status](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](https://img.shields.io/badge/maintained-yes-green.svg)
 [![Build Status](https://travis-ci.org/pwab/haptic-technology.svg?branch=master)](https://travis-ci.org/pwab/haptic-technology)
+
+- [ ] Collect data in form of books, papers, websites, frameworks, software, hardware, institutions and persons working on this stuff
+- [ ] Rearrange data into topics and give them meaningful tags for showing free content, type of content and everything else which could be useful while researching
 
 ## Books 📚
 
