@@ -3,12 +3,6 @@
 > Just sharing my literature/web research on haptics, haptic feedback (including kinaesthetic and tactile feedback) and haptic technology.
 > The list is in a very early stage - Keep calm :)
 
-## Status
-
-- [ ] Collect data in form of books, papers, websites, frameworks, software, hardware, institutions and persons working on this stuff
-- [ ] Rearrange data into topics and give them meaningful tags for showing free content, type of content and everything else which could be useful while researching
-- [ ] Add bib-file ~and convert bib automatically to a markdown list and readable html file~
-
 ## Books 📚
 
 - _Hatzfeld, C. and Kern, T. A._ **Engineering Haptic Devices: A Beginner's Guide** (2014), ISBN 978-1-4471-6517-0 [[DOI]](https://doi.org/10.1007/978-1-4471-6518-7)
