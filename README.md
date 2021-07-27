@@ -30,6 +30,7 @@
 ## Hardware
 
 - [LucidVR](https://github.com/LucidVR) - Developer of the [lucidglove](https://github.com/LucidVR/lucidgloves-hardware)
+- [SonicSurface](https://github.com/upnalab/SonicSurface) - Ultrasonic acustic holography [[DOI]](https://doi.org/10.3390/app11072981)
 
 ## Software 💻
 
